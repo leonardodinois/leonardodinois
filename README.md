@@ -32,23 +32,17 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leonardodinois&show_icons=true&theme=radical"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardodinois&layout=compact&theme=radical"/>
-</div>
-
 ---
 
 ## 🌍 Vamos nos conectar!
 <div align="center">
-  <a href="https://instagram.com/eudinois" target="_blank">
+  <a href="https://instagram.com/leonardodinois" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/seuusuario" target="_blank">
+  <a href="https://www.linkedin.com/in/leonardo-dinois-a7310b351/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:seuemail@gmail.com">
+  <a href="leonardodinois35@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
