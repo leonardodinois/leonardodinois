@@ -14,11 +14,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" />
 </div>
 
 - 🐍 **Python** → automações e scripts inteligentes  
 - 🌐 **HTML & CSS** → desenvolvimento web  
+- ⚡ **JavaScript** → interatividade e aplicações dinâmicas no front-end  
 - 🗄 **SQL/MySQL** → manipulação e análise de dados  
 
 ---
@@ -27,6 +29,14 @@
 - 💼 Oportunidades para aplicar meus conhecimentos em projetos reais  
 - 🤝 Colaboração em projetos de **automação** ou **desenvolvimento web**  
 - 📚 Compartilhar e aprender com a comunidade de tecnologia  
+
+---
+
+## 📊 Estatísticas do GitHub
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leonardodinois&show_icons=true&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardodinois&layout=compact&theme=radical"/>
+</div>
 
 ---
 
